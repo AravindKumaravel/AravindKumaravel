@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML,CSS,JS,BootStrap,React,SQL,MongoDB,NodeJS,**
+- 🌱 I’m currently learning **HTML,CSS,JS,BootStrap,React,SQL,MongoDB**
 
 - 📫 How to reach me **aravindkumaravel200023gmail.com**
 
