@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aravind_Kumaravel</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 
 
 
-- 🌱 I’m currently learning **HTML,CSS,JS,BootStrap,React**
+- 🌱 I’m currently learning **HTML,CSS,JS,BootStrap,React,SQL,MongoDB,NodeJS,**
 
 - 📫 How to reach me **aravindkumaravel200023gmail.com**
 
